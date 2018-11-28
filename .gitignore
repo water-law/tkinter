@@ -1,0 +1,5 @@
+# PYC
+.idea
+
+# Python
+__pycache__/
